@@ -1,17 +1,17 @@
-# HerokuFreeProxy
+# Heroku Free Proxy
 
-A free HTTP proxy that runs on Heroku.
+Un Webproxy gratis para hospedar en Heroku.
 
-## How to Use
+## Modo de uso
 
-To use this project, follow these steps:
+Para usar este Proyecto, seguir los siguientes pasos:
 
-1. Clone this project.
-2. `$ heroku create`
-3. `$ git push heroku master`
+1. Descargar este proyecto en formato zip
+2. Crear un nuevo Proyecto en su cuenta de github
+3. Editar el nuevo Proyecto para que sea un clon de este.
+4. Ir a heroku y crear una nueva aplicacion.
+5. En la nueva aplicacion hacer Desploy conectandola a su Proyecto gitub
 
-Then visit {{your_heroku_url}}/proxy/http://wikipedia.org
+La forma de uso es {{su_aplicacion_heroku}}/proxy/https://www.google.com
 
-Season to taste.
-
-Done!
+Eso es todo
